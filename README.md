@@ -1,2 +1,7 @@
 # IEEE-SIST-2024
 2024 IEEE 4th International Conference on Smart Information Systems and Technologies (SIST)
+
+**Abstract:**
+This study presents a comparative analysis of machine learning algorithms for forecasting harvest data in Kazakhstan. Leveraging extensive datasets spanning over three decades, our research evaluates the performance and predictive accuracy of various algorithms in forecasting potato yields—the predominant crop in the region. Through empirical analysis, Linear Regression, Lasso Regression, and Ridge Regression emerge as top-performing models, exhibiting R^2 scores exceeding 0.95. These linear models effectively capture the complex relationship between weather conditions and agricultural outcomes, offering valuable insights for agricultural planning and decision-making. Additionally, Gradient Boosting and ElasticNet algorithms demonstrate competitive performance, highlighting the potential of ensemble learning techniques in agricultural forecasting. Conversely, Support Vector Regression (SVR) exhibits poor performance in this context, emphasizing the importance of selecting appropriate algorithms tailored to the specific characteristics of agricultural datasets. Overall, our findings underscore the significance of employing advanced machine learning techniques to enhance the accuracy and reliability of harvest forecasts, thereby empowering stakeholders in the agricultural sector to make informed decisions and ensure food security in Kazakhstan.
+
+DOI: 10.1109/SIST61555.2024.10629486
